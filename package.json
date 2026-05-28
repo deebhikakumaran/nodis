@@ -1,0 +1,16 @@
+{
+  "name": "nodis",
+  "version": "0.0.1",
+  "description": "simple redis-compatible in-memory KV store",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "KV",
+    "store"
+  ],
+  "author": "deebhikakumaran",
+  "license": "MIT"
+}
